@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nitilis
+- 👀 I’m interested in Games and Coding
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me nitilise@gmail.com
